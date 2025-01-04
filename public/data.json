@@ -1,0 +1,164 @@
+[
+    {
+      "_id": "1",
+      "brand_name": "Daraz",
+      "rating": 4.5,
+      "description": "Bangladesh's largest online shopping marketplace with a wide range of products and discounts.",
+      "brand_logo": "https://en.orthosongbad.com/wp-content/uploads/2024/02/New-Project-2024-02-27T155900.439.jpg",
+      "coupons": [
+        {
+          "coupon_code": "DARAZ50",
+          "description": "Get 50% off on your first order.",
+          "expiry_date": "2024-12-31",
+          "condition": "Valid for first-time users only.",
+          "coupon_type": "Percentage"
+        },
+        {
+          "coupon_code": "FREESHIPDARAZ",
+          "description": "Enjoy free shipping on orders over 500 BDT.",
+          "expiry_date": "2024-11-30",
+          "condition": "Minimum order value 500 BDT.",
+          "coupon_type": "Free Shipping"
+        }
+      ],
+      "shop_link": "https://www.daraz.com.bd",
+      "category": "E-commerce",
+      "isSaleOn": true
+    },
+    {
+      "_id": "2",
+      "brand_name": "Foodpanda",
+      "rating": 4.8,
+      "description": "Order your favorite food and groceries online with exclusive discounts.",
+      "brand_logo": "https://coorzjdvba.cloudimg.io/markedium.com/wp-content/uploads/2021/07/A-deep-Dive-By73.png",
+      "coupons": [
+        {
+          "coupon_code": "PANDA20",
+          "description": "Flat 20% off on all restaurant orders.",
+          "expiry_date": "2024-12-15",
+          "condition": "Applicable only on selected restaurants.",
+          "coupon_type": "Percentage"
+        },
+        {
+          "coupon_code": "GROCERY10",
+          "description": "10% off on grocery purchases above 1000 BDT.",
+          "expiry_date": "2024-12-25",
+          "condition": "Valid for grocery category only.",
+          "coupon_type": "Flat Discount"
+        }
+      ],
+      "shop_link": "https://www.foodpanda.com.bd",
+      "category": "Food Delivery",
+      "isSaleOn": true
+    },
+    {
+      "_id": "3",
+      "brand_name": "Evaly",
+      "rating": 4.0,
+      "description": "A one-stop online shop offering amazing deals and promotions.",
+      "brand_logo": "https://futurestartup.b-cdn.net/wp-content/uploads/2018/12/Evaly-logo-01.jpg",
+      "coupons": [
+        {
+          "coupon_code": "EVALY100",
+          "description": "Get 100 BDT off on orders above 1000 BDT.",
+          "expiry_date": "2024-11-30",
+          "condition": "Minimum purchase of 1000 BDT required.",
+          "coupon_type": "Flat Discount"
+        }
+      ],
+      "shop_link": "https://www.evaly.com.bd",
+      "category": "E-commerce",
+      "isSaleOn": false
+    },
+    {
+      "_id": "4",
+      "brand_name": "AjkerDeal",
+      "rating": 3.8,
+      "description": "Discover daily deals on a variety of products at affordable prices.",
+      "brand_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZU-xt1dmFN4g5LvgmBtkt3SpZmMjhFPSOsA&s",
+      "coupons": [
+        {
+          "coupon_code": "DEALFREE",
+          "description": "Free delivery on all products.",
+          "expiry_date": "2024-12-31",
+          "condition": "No minimum purchase required.",
+          "coupon_type": "Free Delivery"
+        }
+      ],
+      "shop_link": "https://www.ajkerdeal.com",
+      "category": "E-commerce",
+      "isSaleOn": true
+    },
+    {
+      "_id": "5",
+      "brand_name": "Pathao Food",
+      "rating": 4.3,
+      "description": "Order food and enjoy fast delivery with exciting discounts.",
+      "brand_logo": "https://images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2023/10/25/pathao_new_logo.png",
+      "coupons": [
+        {
+          "coupon_code": "PATHAO50",
+          "description": "50% off on your first 3 orders.",
+          "expiry_date": "2024-11-30",
+          "condition": "Valid for new users only.",
+          "coupon_type": "Percentage"
+        }
+      ],
+      "shop_link": "https://www.pathao.com",
+      "category": "Food Delivery",
+      "isSaleOn": true
+    },
+    {
+      "_id": "6",
+      "brand_name": "Chaldal",
+      "rating": 4.7,
+      "description": "Bangladesh's leading online grocery delivery service.",
+      "brand_logo": "https://www.startupbangladesh.vc/wp-content/uploads/2021/07/Chaldal-BrandID-2021.png",
+      "coupons": [
+        {
+          "coupon_code": "CHALDAL20",
+          "description": "20% off on your grocery order above 500 BDT.",
+          "expiry_date": "2024-12-20",
+          "condition": "Minimum purchase of 500 BDT required.",
+          "coupon_type": "Percentage"
+        },
+        {
+          "coupon_code": "FREEDELIVERY",
+          "description": "Free delivery on orders over 1000 BDT.",
+          "expiry_date": "2024-12-25",
+          "condition": "Valid for all categories.",
+          "coupon_type": "Free Delivery"
+        }
+      ],
+      "shop_link": "https://www.chaldal.com",
+      "category": "Grocery",
+      "isSaleOn": false
+    },
+    {
+      "_id": "7",
+      "brand_name": "Rokomari",
+      "rating": 4.6,
+      "description": "Bangladesh's favorite online bookstore with discounts on books and stationery.",
+      "brand_logo": "https://iconape.com/wp-content/files/aw/181544/svg/181544.svg",
+      "coupons": [
+        {
+          "coupon_code": "BOOKLOVER",
+          "description": "Get 15% off on all book purchases.",
+          "expiry_date": "2024-12-31",
+          "condition": "Valid for books category only.",
+          "coupon_type": "Percentage"
+        },
+        {
+          "coupon_code": "STATIONERY10",
+          "description": "Flat 10% off on stationery items.",
+          "expiry_date": "2024-11-30",
+          "condition": "No minimum purchase required.",
+          "coupon_type": "Flat Discount"
+        }
+      ],
+      "shop_link": "https://www.rokomari.com",
+      "category": "Books & Stationery",
+      "isSaleOn": true
+    }
+  ]
+  
