@@ -59,7 +59,7 @@ Coupon Hunter is designed to help users:
 📝 How to Run Locally
 
 Clone the Repository
-git clone https://github.com/ariyan/coupon-hunter-client.git
+git clone https://github.com/ariyan-321/coupon-finder.git
 cd coupon-hunter-client
 
 
