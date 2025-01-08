@@ -6,6 +6,15 @@ A modern platform to discover the best deals, discounts, and promo codes from va
 
 ---
 
+
+## 📷 Screenshots  
+
+### Home Page  
+![Home Page](https://i.ibb.co.com/FXz0N5M/image-2.png)
+
+
+
+
 ## 📖 About Coupon Hunter  
 
 Coupon Hunter is designed to help users:  
@@ -92,11 +101,7 @@ Log in to save your favorite deals for later.
 Enjoy the Savings:
 Apply the promo codes during checkout to save money on your purchases.
 
-
-## 📷 Screenshots  
-
-### Home Page  
-![Home Page](https://i.ibb.co.com/FXz0N5M/image-2.png)  
+  
 
 
 Coupon Details
