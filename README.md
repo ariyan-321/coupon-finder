@@ -25,6 +25,8 @@ Coupon Hunter is designed to help users:
 
 ---
 
+
+
 ## 🚀 Features  
 
 - **Dynamic Search:** Quickly find deals and discounts that match your preferences.  
