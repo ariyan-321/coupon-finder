@@ -32,7 +32,9 @@ Coupon Hunter is designed to help users:
 - **Responsive Design:** Optimized for desktops, tablets, and mobile devices.  
 - **Modern UI:** Built with React and styled using Tailwind CSS and DaisyUI.  
 - **Real-time Notifications:** Get instant alerts for new deals using React Hot Toast.  
-- **Effortless Sharing:** Easily copy and share promo codes with friends.  
+- **Effortless Sharing:** Easily copy and share promo codes with friends.
+
+  
 
 ---
 
