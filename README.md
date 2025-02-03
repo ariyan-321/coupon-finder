@@ -14,7 +14,6 @@ A modern platform to discover the best deals, discounts, and promo codes from va
 
 
 
-
 ## 📖 About Coupon Hunter  
 
 Coupon Hunter is designed to help users:  
